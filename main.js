@@ -11,7 +11,7 @@ alert(` Your dog is ${humanAge(dogAge)} in human age.`);
 } while (dogAge < 100);
 
 
-dogMain();
+
 
 // create a function that converts dog age to human time
 // user inputs dogAge. 
