@@ -9,10 +9,11 @@ function humanAge() {
 };
 
 alert(` Your dog is ${humanAge(dogAge)} in human age.`);
+    for(let i = 0; i < 100; i++);
 };
 
 dogMain();
-for(let i = 0; i < 100; i++);
+
 // create a function that converts dog age to human time
 // user inputs dogAge. 
 // dogAge - 2 
