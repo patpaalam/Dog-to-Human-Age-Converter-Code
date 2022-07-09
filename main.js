@@ -1,6 +1,5 @@
 // humanAge = (dogAge - 2) * 4 + 21
-
-function dogMain() {
+do {
 let dogAge = prompt("How old is your dog?");
 
 function humanAge() {
@@ -9,8 +8,8 @@ function humanAge() {
 };
 
 alert(` Your dog is ${humanAge(dogAge)} in human age.`);
-    for(let i = 0; i < 100; i++);
-};
+} while (dogAge < 100);
+
 
 dogMain();
 
